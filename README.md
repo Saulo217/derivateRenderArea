@@ -3,5 +3,5 @@ este programa renderiza a area de um gráfico utilizando derivada e a Canvas api
 
 ## Video example
 <video controls>
-  <source src="./video.webm" type="video/webm">
+  <source src="./video.mp4" type="video/mp4">
 </video>
